@@ -165,28 +165,6 @@ The project includes:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Sales-Demand-Forecasting/
-│
-├── notebook.ipynb
-├── report.pdf
-├── future_30day_forecast.csv
-├── model_comparison.csv
-├── requirements.txt
-│
-├── images/
-│   ├── monthly_sales.png
-│   ├── quarterly_sales.png
-│   ├── regional_sales.png
-│   ├── category_sales.png
-│   ├── actual_vs_predicted.png
-│   └── future_forecast.png
-│
-└── README.md
-```
-
 ## 🧰 Technologies Used
 
 * Python
